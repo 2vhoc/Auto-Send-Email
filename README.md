@@ -1,3 +1,5 @@
 # Auto-Send-Email
 # Python
-Step 1: pip install yagmail;
+<pre><code class="language-javascript">
+pip install yagmail
+</code></pre>
